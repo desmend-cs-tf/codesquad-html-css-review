@@ -1,6 +1,6 @@
 # HTML, CSS & JavaScript Review: "My City" Page
 
-A 10–15 minute warm-up before we dive into Replit. You will build a one-page website about a city, **first with Replit's help, then compare it to a hand-built answer**.
+A 10–15 minute warm-up before we dive into Replit. You will build a one-page website about a city, **first without Replit's help, then compare it to a hand-built answer**.
 
 **What the page must have**
 
